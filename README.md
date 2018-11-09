@@ -1,6 +1,6 @@
-#Specification
+# Specification
 
-##Description
+## Description
 
 The application is a simulation of a toy robot moving on a square tabletop, of dimensions 5 units x 5 units. There are no other obstructions on the table surface.
 The robot is free to roam around the surface of the table, but must be prevented from falling to destruction. Any movement that would result in the robot falling from the table must be prevented, however further valid movement commands must still be allowed.
@@ -26,10 +26,10 @@ Input can be from a file, or from standard input, as the developer chooses.
 
 Provide test data to exercise the application.
 
-##Constraints
+## Constraints
 The toy robot must not fall off the table during movement. This also includes the initial placement of the toy robot. Any move that would cause the robot to fall must be ignored.
 
-##Example Input and Output
+## Example Input and Output
 
 a)
 
@@ -55,7 +55,7 @@ MOVE
 REPORT
 Output: 3,3,NORTH
 
-##Deliverables
+## Deliverables
 The source files, the test data and any test code.
 
 It is not required to provide any graphical output showing the movement of the toy robot.
