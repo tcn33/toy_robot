@@ -61,4 +61,4 @@ The source files, the test data and any test code.
 It is not required to provide any graphical output showing the movement of the toy robot.
 
 Acknowledgements
-Toy Robot created by Jon Eaves.
+Toy Robot created by [Jon Eaves](https://joneaves.wordpress.com/2014/07/21/toy-robot-coding-test/).
